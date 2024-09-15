@@ -45,18 +45,13 @@ This repository implements a **game-theoretic framework** to model motorcycle be
 1. Configure your simulation parameters in the `/simulations/config` folder.
 2. Run the multi-agent interaction simulations:
    ```bash
-   python src/run_simulation.py
+   python src/xxxxxx(choose which scenario to simulate).py
    ```
-3. View and analyze results in the `/results` folder.
-
-### Example Use Cases
-
-- **Scenario 1**: Test AV interaction with 1 leader and 3 followers.
-- **Scenario 2**: Evaluate AV performance with 2 leaders and 6 followers under aggressive conditions.
+3. Import the XML file for rebuild the testing scenarios in PanoSim
 
 ## Results and Evaluation
 
-The results of each experiment are saved in the `/results` folder. These include the probability of **aggressive/dangerous behaviors** exhibited by motorcycles and the **average number of accidents** in each scenario, allowing you to compare the performance of AVs with and without predictive decision-making capabilities.
+More detailed results and evaluation please refers to the paper.
 
 
 ## License
