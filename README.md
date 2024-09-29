@@ -53,6 +53,10 @@ This repository implements a **game-theoretic framework** to model motorcycle be
 
 More detailed results and evaluation please refers to the paper.
 
+## Notice
+
+The relevant code, dataset, and demonstration video are currently being organized. Please be patient and wait for further results.
+
 
 ## License
 
